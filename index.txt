@@ -27,7 +27,7 @@ Introdcuton to Cloud Operations
 
 5. Select the option to upload files, choose your zipped folder containing the application files, and upload it to the desired directory.
 
-6. Unzip the Folder: Once the zipped folder is uploaded, unzip it directly within the desired directory in cPanel. This can usually be done by right-clicking on the zipped folder and selecting the option to extract or unzip.
+6. Once the zipped folder is uploaded, unzip it directly within the desired directory in cPanel. This can usually be done by right-clicking on the zipped folder and selecting the option to extract or unzip.
 
 7. Move Files to Public Folder: After unzipping the folder, ensure that the files are moved to the correct location within your public folder on cPanel. The public folder serves and compiles the files so they can be shown in the browser.
    
